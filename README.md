@@ -9,6 +9,7 @@ In this project, I am  provided with various datasets and tables, and my task wi
 ### Tools Used:
 
 -MySQL Workbench 8.0.36
+
 -MySQL Community Server 8.4.0 LTS 
 
 ### Case Study 1:
